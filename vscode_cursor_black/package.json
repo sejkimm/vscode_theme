@@ -1,6 +1,6 @@
 {
-  "name": "cursor-sjk-theme",
-  "displayName": "Cursor Black sjk custom",
+  "name": "vscode_cursor_black",
+  "displayName": "vscode_cursor_black",
   "publisher": "local",
   "version": "0.0.1",
   "engines": {
@@ -9,7 +9,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cursor Default sjk custom",
+        "label": "vscode_cursor_black",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor-sjk-theme.json"
       }
