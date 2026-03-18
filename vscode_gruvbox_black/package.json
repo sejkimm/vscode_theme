@@ -1,15 +1,29 @@
 {
-  "name": "vscode_gruvbox_black",
-  "displayName": "vscode_gruvbox_black",
+  "name": "gruvbox-black",
+  "displayName": "Gruvbox Black",
+  "description": "Gruvbox Black theme for VS Code and Cursor.",
   "publisher": "local",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sejkimm/vscode_theme"
+  },
+  "files": [
+    "LICENSE",
+    "package.json",
+    "themes/*.json"
+  ],
+  "categories": [
+    "Themes"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
   "contributes": {
     "themes": [
       {
-        "label": "vscode_gruvbox_black",
+        "label": "Gruvbox Black",
         "uiTheme": "vs-dark",
         "path": "./themes/cursor-sjk-gruvbox.json"
       }
