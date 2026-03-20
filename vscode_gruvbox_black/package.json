@@ -25,7 +25,7 @@
       {
         "label": "Gruvbox Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/cursor-sjk-gruvbox.json"
+        "path": "./themes/gruvbox-black.json"
       }
     ]
   }
